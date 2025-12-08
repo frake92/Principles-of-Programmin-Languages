@@ -1,0 +1,2 @@
+-- multi currency támogatás. 
+--Ne tudja a user keverni a valutákat

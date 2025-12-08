@@ -1,0 +1,1 @@
+-- cli interface, összekötő, exceptikn hsndling. ez a demo app
