@@ -1,1 +1,0 @@
--- teljes egyenleg. min. max értekek, stb.
